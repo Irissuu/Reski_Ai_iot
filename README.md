@@ -50,7 +50,7 @@ https://huggingface.co/welcome
 ### 6. Crie um arquivo .env e na crie uma variável HF_API_KEY e dentro dela cole seu token criado entre aspas
 <img width="620" height="182" alt="image" src="https://github.com/user-attachments/assets/61b9944f-8a29-4320-8157-5fa2f57fdf80" />
 
-### 7. Rode o projeto no terminal
+### 7. Rode o projeto main.py no terminal
 ```text
 uvicorn main:app --reload
 ```
