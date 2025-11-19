@@ -20,7 +20,6 @@ O sistema permite que o usuário cadastre seu perfil, habilidades e objetivos de
 
 ## ⚙️ Tecnologias
 
-- Java 17
 - Python 3.11.9
 - Render
 - Hugging Face
