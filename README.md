@@ -29,7 +29,7 @@ O sistema permite que o usuário cadastre seu perfil, habilidades e objetivos de
 
 ### 1. Clone o repositório
 ```text
-https://github.com/Irissuu/Reski_Ai_iot.git
+git clone https://github.com/Irissuu/Reski_Ai_iot.git
 ```
 
 ### 2. Faça o cadastro/login no Hugging Face
