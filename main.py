@@ -59,4 +59,4 @@ def chat_ia(req: ChatRequest):
 
 @app.on_event("startup")
 def startup_event():
-    print("\nAPI rodando em: http://localhost:3000/docs")
+    print("\nAPI rodando na nuvem em: https://reski-ai-iot.onrender.com/docs")
